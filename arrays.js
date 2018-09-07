@@ -1,2 +1,4 @@
-var chocolateBars['snickers', 'hundred grand', 'kitkat', 'skittles']p
+var chocolateBars = ['snickers', 'hundred grand', 'kitkat', 'skittles'];
+
+
 
